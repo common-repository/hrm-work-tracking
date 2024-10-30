@@ -1,0 +1,218 @@
+# Copyright (C) 2013 HRM Work Tracking
+# This file is distributed under the same license as the HRM Work Tracking package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HRM Work Tracking 1.01\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/hrm-work-tracking\n"
+"POT-Creation-Date: 2013-05-05 20:42:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-05-05 23:05+0100\n"
+"Last-Translator: theo dege <theo@berlin.com>\n"
+"Language-Team: potranslate.prabhatgupta.com <LL@li.org>\n"
+
+#: count.php:5
+#: count.php:48
+msgid "Pause"
+msgstr "Pausa"
+
+#: count.php:12
+#: count.php:47
+msgid "Arbeit"
+msgstr "Trabajo"
+
+#: count.php:42
+msgid "Tage"
+msgstr "Días"
+
+#: count.php:42
+#: hrm_dashboard.php:115
+msgid "Stunden"
+msgstr "Horas"
+
+#: count.php:42
+#: count.php:48
+msgid "Minuten"
+msgstr "Minutos"
+
+#: count.php:42
+msgid "Sekunden"
+msgstr "Segundos"
+
+#: hrm-users.php:10
+#: hrm-users.php:34
+#: hrm-work-tracking.php:50
+msgid "Personalabteilung"
+msgstr "Departamento de recursos humanos"
+
+#: hrm-users.php:45
+msgid "Andere HRM Mitarbeiter IDs"
+msgstr "Otros ID de empleado HRM"
+
+#: hrm-users.php:46
+msgid "mehrere mit , getrennt"
+msgstr "varios, separados"
+
+#: hrm-users.php:66
+msgid "Zeitraum"
+msgstr "Período"
+
+#: hrm-users.php:85
+#: hrm-users.php:90
+msgid "Online"
+msgstr "En línea"
+
+#: hrm-users.php:85
+#: hrm-users.php:90
+msgid "Name"
+msgstr "Nombre"
+
+#: hrm-users.php:85
+#: hrm-users.php:90
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: hrm-users.php:85
+#: hrm-users.php:90
+msgid "Sollstunden pro Tag"
+msgstr "Horas / día"
+
+#: hrm-users.php:85
+#: hrm-users.php:90
+msgid "Stunden pro Woche / Monat"
+msgstr "Horas / semana / mes"
+
+#: hrm-users.php:85
+#: hrm-users.php:90
+msgid "Ist-Stunden pro Monat"
+msgstr "Horas reales por mes"
+
+#: hrm-users.php:114
+msgid "laufend"
+msgstr "funcionamiento"
+
+#: hrm-users.php:142
+msgid "Arbeitszeit Einstellung"
+msgstr "Ajuste del tiempo de trabajo"
+
+#: hrm-users.php:147
+msgid "Wochenarbeitszeit"
+msgstr "Horas de trabajo semanales"
+
+#: hrm-users.php:151
+msgid "Die wöchentliche Arbeitszeit"
+msgstr "Las horas de trabajo semanales"
+
+#: hrm-work-tracking.php:46
+msgid "Uhr"
+msgstr "Reloj"
+
+#: hrm-work-tracking.php:54
+msgid "Zeiterfassung"
+msgstr "Tiempo de grabación"
+
+#: hrm_core.php:149
+msgid "Personalchef"
+msgstr "Jefe de recursos humanos"
+
+#: hrm_core.php:153
+msgid "Telefon"
+msgstr "Teléfono"
+
+#: hrm_dashboard.php:48
+#: user-extras.php:28
+#: user-extras.php:52
+msgid "Krank bis"
+msgstr "Mal hasta"
+
+#: hrm_dashboard.php:78
+msgid "Monat"
+msgstr "Mes"
+
+#: hrm_dashboard.php:78
+msgid "Soll Arbeitsstunden"
+msgstr "Debe de horas de trabajo"
+
+#: hrm_dashboard.php:78
+msgid "Ist Arbeitsstunden"
+msgstr "Horas de trabajo"
+
+#: hrm_dashboard.php:115
+msgid "Arbeitszeit"
+msgstr "Tiempo de trabajo"
+
+#: hrm_dashboard.php:115
+msgid "im"
+msgstr "En"
+
+#: hrm_dashboard.php:124
+msgid "Pause beginnen"
+msgstr "Comenzar la rotura"
+
+#: hrm_dashboard.php:128
+msgid "Pause beenden"
+msgstr "Dejar en pausa"
+
+#: hrm_dashboard.php:132
+msgid "Feierabend"
+msgstr "Tiempo de cierre"
+
+#: hrm_dashboard.php:132
+#: hrm_ill.php:53
+msgid "Krank melden"
+msgstr "Enfermo"
+
+#: hrm_ill.php:9
+#: hrm_ill.php:22
+#: hrm_ill.php:32
+msgid "Krankmeldung"
+msgstr "Insulto"
+
+#: hrm_ill.php:24
+msgid "Krank gemeldet bis "
+msgstr "Enfermos registrados a "
+
+#: hrm_ill.php:42
+msgid "Bitte Datum eintragen!"
+msgstr "Por favor ingrese la fecha!"
+
+#: hrm_ill.php:48
+msgid "Bitte geben Sie das Datum an, bis zu dem Sie krank gemeldet sind."
+msgstr "Por favor indique la fecha hasta cuando estás enfermo."
+
+#: user-extras.php:22
+#: user-extras.php:46
+msgid "anwesend"
+msgstr "presente"
+
+#: user-extras.php:24
+#: user-extras.php:48
+msgid "pause"
+msgstr "rotura"
+
+#: user-extras.php:30
+#: user-extras.php:54
+msgid "abwesend"
+msgstr "ausente"
+
+#. Plugin Name of the plugin/theme
+msgid "HRM Work Tracking"
+msgstr "Trabajo HRM seguimiento"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/hrm-work-tracking/"
+msgstr "http://WordPress.org/extend/plugins/HRM-Work-Tracking/"
+
+#. Description of the plugin/theme
+msgid "Ein Plug-in um die Arbeitszeit von mehreren WordPress Usern zu erfassen."
+msgstr "Un plug-in para registrar el tiempo de trabajo de varios usuarios de WordPress."
+
+#. Author of the plugin/theme
+msgid "wp-plugin-dev.com"
+msgstr "WP-plugin-dev.com"
+
+#. Author URI of the plugin/theme
+msgid "http://www.wp-plugin-dev.com"
+msgstr "http://www.wp-plugin-dev.com"
+

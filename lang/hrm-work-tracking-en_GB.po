@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: theo dege <theo@berlin.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: hrm/hrm-users.php:44
+msgid "Andere HRM Mitarbeiter IDs"
+msgstr "Other HRM employees"
+
+#. Text in function
+#: hrm/count.php:1
+#: hrm/count.php:46
+msgid "Arbeit"
+msgstr "Work"
+
+#. Text in function
+#: hrm/hrm_dashboard.php:105
+msgid "Arbeitszeit"
+msgstr "working time"
+
+#. Text in echo
+#: hrm/hrm-users.php:135
+msgid "Arbeitszeit Einstellung"
+msgstr "working time Settings"
+
+#. Text in echo
+#: hrm/hrm_ill.php:42
+msgid "Bitte Datum eintragen!"
+msgstr "Please enter Date!"
+
+#. Text in echo
+#: hrm/hrm_ill.php:48
+msgid "Bitte geben Sie das Datum an, bis zu dem Sie krank gemeldet sind."
+msgstr "Please provide the date from the doctor's nore"
+
+#. Text in echo
+#: hrm/hrm-users.php:144
+msgid "Die wöchentliche Arbeitszeit"
+msgstr "Weekly work time"
+
+#. Text in echo
+#: hrm/hrm-users.php:83
+msgid "E-mail"
+msgstr "e-mail"
+
+#. Text in function
+#: hrm/hrm_dashboard.php:105
+msgid "F"
+msgstr "F"
+
+#. Text in echo
+#: hrm/hrm_dashboard.php:126
+msgid "Feierabend"
+msgstr "quitting time"
+
+#. Text in echo
+#: hrm/hrm_dashboard.php:78
+msgid "Ist Arbeitsstunden"
+msgstr "actual hours"
+
+#. Text in echo
+#: hrm/hrm-users.php:83
+msgid "Ist-Stunden pro Monat"
+msgstr "actual hours per month"
+
+#. Text in function
+#: hrm/user-extras.php:1
+#: hrm/hrm_dashboard.php:105
+msgid "Krank bis"
+msgstr "ill until"
+
+#. Text in function
+#: hrm/hrm_ill.php:57
+msgid "Krank gemeldet bis "
+msgstr "absent due to illness to "
+
+#. Text in echo
+#: hrm/hrm_ill.php:53
+#: hrm/hrm_dashboard.php:126
+msgid "Krank melden"
+msgstr "report ill"
+
+#. Text in function
+#: hrm/hrm_ill.php:57
+msgid "Krankmeldung"
+msgstr "sick certificate"
+
+#. Text in echo
+#: hrm/count.php:42
+#: hrm/count.php:46
+msgid "Minuten"
+msgstr "minutes"
+
+#. Text in echo
+#: hrm/hrm_dashboard.php:78
+msgid "Monat"
+msgstr "month"
+
+#. Text in echo
+#: hrm/hrm-users.php:83
+msgid "Name"
+msgstr "Name"
+
+#. Text in echo
+#: hrm/hrm-users.php:83
+msgid "Online"
+msgstr "online"
+
+#. Text in function
+#: hrm/count.php:1
+#: hrm/count.php:46
+msgid "Pause"
+msgstr "break"
+
+#. Text in echo
+#: hrm/hrm_dashboard.php:124
+msgid "Pause beenden"
+msgstr "quit break"
+
+#. Text in echo
+#: hrm/hrm_dashboard.php:122
+msgid "Pause beginnen"
+msgstr "start break"
+
+#. Text in function
+#: hrm/hrm-users.php:119
+#: hrm/hrm-users.php:34
+#: hrm/hrm-work-tracking.php:1
+msgid "Personalabteilung"
+msgstr "Human Resources Department"
+
+#. Text in function
+#: hrm/hrm_core.php:105
+msgid "Personalchef"
+msgstr "staff manager"
+
+#. Text in echo
+#: hrm/count.php:42
+msgid "Sekunden"
+msgstr "seconds"
+
+#. Text in echo
+#: hrm/hrm_dashboard.php:78
+msgid "Soll Arbeitsstunden"
+msgstr "target hours"
+
+#. Text in echo
+#: hrm/hrm-users.php:83
+msgid "Sollstunden pro Tag"
+msgstr "target hours per day"
+
+#. Text in echo
+#: hrm/count.php:42
+msgid "Stunden"
+msgstr "hours"
+
+#. Text in echo
+#: hrm/hrm-users.php:83
+msgid "Stunden pro Woche / Monat"
+msgstr "hours per week / month"
+
+#. Text in echo
+#: hrm/count.php:42
+msgid "Tage"
+msgstr "days"
+
+#. Text in function
+#: hrm/hrm_core.php:105
+msgid "Telefon"
+msgstr "phone"
+
+#. Text in function
+#: hrm/hrm-work-tracking.php:1
+msgid "Uhr"
+msgstr "clock"
+
+#. Text in echo
+#: hrm/hrm-users.php:140
+msgid "Wochenarbeitszeit"
+msgstr "weekly hours of work"
+
+#. Text in function
+#: hrm/hrm-work-tracking.php:1
+msgid "Zeiterfassung"
+msgstr "time recording"
+
+#. Text in echo
+#: hrm/hrm-users.php:59
+msgid "Zeitraum"
+msgstr "period"
+
+#. Text in function
+#: hrm/user-extras.php:1
+msgid "abwesend"
+msgstr "absent"
+
+#. Text in function
+#: hrm/user-extras.php:1
+msgid "anwesend"
+msgstr "present"
+
+#. Text in function
+#: hrm/hrm-users.php:119
+msgid "laufend"
+msgstr "ongoing"
+
+#. Text in echo
+#: hrm/hrm-users.php:45
+msgid "mehrere mit , getrennt"
+msgstr "multiple seperated by comma"
+
+#. Text in function
+#: hrm/user-extras.php:1
+msgid "pause"
+msgstr "break"
+
+#. Text in function
+#: hrm/hrm_dashboard.php:115
+msgid "im"
+msgstr "in"
+
+#. Text in function
+#: hrm/hrm-work-tracking.php:6
+msgid "Ein Plug-in um die Arbeitszeit von mehreren WordPress Usern zu erfassen."
+msgstr "A plugin to track working time of different WordPress Users."
+

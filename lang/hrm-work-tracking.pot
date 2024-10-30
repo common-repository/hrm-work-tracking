@@ -1,0 +1,394 @@
+# Copyright (C) 2014 HRM Work Tracking
+# This file is distributed under the same license as the HRM Work Tracking package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HRM Work Tracking 1.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/hrm-work-tracking\n"
+"POT-Creation-Date: 2014-01-18 00:28:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-01-18 01:47+0100\n"
+"Last-Translator: theo <theo@berlin.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: count.php:5
+#: count.php:48
+#: user-extras.php:24
+#: user-extras.php:48
+msgid "break"
+msgstr "Pause"
+
+#: count.php:12
+#: count.php:47
+msgid "Work"
+msgstr "Arbeit"
+
+#: count.php:42
+msgid "days"
+msgstr "Tage"
+
+#: count.php:42
+#: hrm_dashboard.php:138
+msgid "hours"
+msgstr "Stunden"
+
+#: count.php:42
+#: count.php:48
+#: hrm_article.php:219
+msgid "minutes"
+msgstr "Minuten"
+
+#: count.php:42
+msgid "seconds"
+msgstr "Sekunden"
+
+#: custom_hrm_dashboard.php:11
+msgid "Welcome to HRM Work Tracking"
+msgstr "Willkommen zur HRM Arbeitszeiterfassung"
+
+#: custom_hrm_dashboard.php:14
+msgid "Hello Stranger. You are running the HRM Work Tracking Plugin in version 1.4. For those of you who update from an earlier version read about the changes. The others: Have Fun!"
+msgstr "Hallo Fremder, Sie haben das HRM Work Tracking Plugin in der Version 1.4. Für diejnigen von Ihnen die updaten, Sie sollten sich über die Änderungen vertraut machen. Die anderen: Haben Sie Spaß!"
+
+#: custom_hrm_dashboard.php:19
+msgid "Welcome"
+msgstr "Willkommen"
+
+#: custom_hrm_dashboard.php:21
+#: custom_hrm_dashboard.php:32
+msgid "Changes"
+msgstr "Änderungen"
+
+#: custom_hrm_dashboard.php:23
+msgid "Getting started / Support"
+msgstr "Beginn / Support"
+
+#: hrm-users.php:10
+#: hrm-users.php:65
+#: hrm_dashboard.php:8
+#: hrm_settings.php:69
+msgid "Human Resources Department"
+msgstr "Personalabteilung"
+
+#: hrm-users.php:78
+msgid "period"
+msgstr "Zeitspanne"
+
+#: hrm-users.php:97
+#: hrm-users.php:102
+msgid "online"
+msgstr "Online"
+
+#: hrm-users.php:97
+#: hrm-users.php:102
+msgid "Name"
+msgstr "Name"
+
+#: hrm-users.php:97
+#: hrm-users.php:102
+msgid "e-mail"
+msgstr "E-mail"
+
+#: hrm-users.php:97
+#: hrm-users.php:102
+msgid "target hours per day"
+msgstr "Soll-Stunden pro Tag"
+
+#: hrm-users.php:97
+#: hrm-users.php:102
+msgid "hours per week / month"
+msgstr "Stunden pro Woche / Monat"
+
+#: hrm-users.php:97
+#: hrm-users.php:102
+msgid "actual hours per month"
+msgstr "Gesamte Arbeitzeit pro Monat"
+
+#: hrm-users.php:126
+msgid "ongoing"
+msgstr "laufend"
+
+#: hrm-users.php:163
+msgid "working time Settings"
+msgstr "Arbeitszeit Einstellung"
+
+#: hrm-users.php:168
+msgid "weekly hours of work"
+msgstr "Wochenarbeitszeit"
+
+#: hrm-users.php:172
+msgid "Weekly work time"
+msgstr "Wochenarbeitszeit"
+
+#: hrm_article.php:17
+msgid "HRM Post Timer"
+msgstr "HRM Post Zähler"
+
+#: hrm_article.php:36
+msgid "minutes worked on this post"
+msgstr "Minuten an diesem Post gearbeitet"
+
+#: hrm_article.php:124
+msgid "My Work"
+msgstr "Meine Arbeit"
+
+#: hrm_article.php:183
+msgid "January"
+msgstr "Januar"
+
+#: hrm_article.php:184
+msgid "February"
+msgstr "Februar"
+
+#: hrm_article.php:185
+msgid "March"
+msgstr "März"
+
+#: hrm_article.php:186
+msgid "April"
+msgstr "April"
+
+#: hrm_article.php:187
+msgid "May"
+msgstr "Mai"
+
+#: hrm_article.php:188
+msgid "June"
+msgstr "Juni"
+
+#: hrm_article.php:189
+msgid "July"
+msgstr "July"
+
+#: hrm_article.php:190
+msgid "August"
+msgstr "August"
+
+#: hrm_article.php:191
+msgid "September"
+msgstr "September"
+
+#: hrm_article.php:192
+msgid "October"
+msgstr "Oktober"
+
+#: hrm_article.php:193
+msgid "November"
+msgstr "November"
+
+#: hrm_article.php:194
+msgid "December"
+msgstr "Dezember"
+
+#: hrm_article.php:199
+msgid "Change Date"
+msgstr "Datum ändern"
+
+#: hrm_article.php:205
+msgid "Title"
+msgstr "Titel"
+
+#: hrm_article.php:205
+msgid "Excerpt"
+msgstr "Ausschnitt"
+
+#: hrm_article.php:205
+msgid "Time"
+msgstr "Zeit"
+
+#: hrm_article.php:230
+msgid "Sorry, no posts matched your criteria."
+msgstr "Keine Einträge vorhanden."
+
+#: hrm_core.php:156
+msgid "Staff Manager"
+msgstr "Personalchef"
+
+#: hrm_core.php:160
+msgid "phone"
+msgstr "Telefon"
+
+#: hrm_dashboard.php:4
+msgid "clock"
+msgstr "Uhr"
+
+#: hrm_dashboard.php:12
+msgid "time recording"
+msgstr "Zeiterfassung"
+
+#: hrm_dashboard.php:71
+#: user-extras.php:28
+#: user-extras.php:52
+msgid "ill until"
+msgstr "Krank bis"
+
+#: hrm_dashboard.php:101
+msgid "month"
+msgstr "Monat"
+
+#: hrm_dashboard.php:101
+msgid "target hours"
+msgstr "Soll-Stunden"
+
+#: hrm_dashboard.php:101
+msgid "actual hours"
+msgstr "Ist-Stunden"
+
+#: hrm_dashboard.php:138
+msgid "working time"
+msgstr "Arbeitszeit"
+
+#: hrm_dashboard.php:138
+msgid "in"
+msgstr "im"
+
+#: hrm_dashboard.php:147
+msgid "start break"
+msgstr "Pause beginnen"
+
+#: hrm_dashboard.php:151
+#: hrm_ill.php:72
+msgid "quit break"
+msgstr "Pause beenden"
+
+#: hrm_dashboard.php:155
+msgid "quitting time"
+msgstr "Feierabend"
+
+#: hrm_dashboard.php:155
+#: hrm_ill.php:55
+msgid "report ill"
+msgstr "Krank melden"
+
+#: hrm_dashboard.php:164
+msgid "Open in new window"
+msgstr "In neuem Fenster öffnen"
+
+#: hrm_ill.php:9
+#: hrm_ill.php:23
+#: hrm_ill.php:33
+msgid "Sick Certificate"
+msgstr "Krankmeldung"
+
+#: hrm_ill.php:25
+msgid "absent due to illness to "
+msgstr "Abwesend durch Krankheit bis"
+
+#: hrm_ill.php:44
+msgid "Please enter Date!"
+msgstr "Bitte Datum eingeben!"
+
+#: hrm_ill.php:50
+msgid "Please provide the date from the doctor's note."
+msgstr "Datum der Krankmeldung eintragen."
+
+#: hrm_ill.php:68
+msgid "Please quit break first!"
+msgstr "Bitte zuerst Pause beenden!"
+
+#: hrm_settings.php:10
+#: hrm_settings.php:69
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: hrm_settings.php:83
+msgid "Clear time of all users?"
+msgstr "Zeit aller Benutzer löschen!"
+
+#: hrm_settings.php:84
+msgid "Yes"
+msgstr "JA"
+
+#: hrm_settings.php:93
+msgid "Settings saved."
+msgstr "Einstellung gesichert."
+
+#: hrm_settings.php:114
+msgid "Clear all times"
+msgstr "Alle Zeiten löschen"
+
+#: hrm_settings.php:119
+msgid "Other HRM employees"
+msgstr "Andere Personaler"
+
+#: hrm_settings.php:120
+msgid "multiple seperated by comma"
+msgstr "mehrere mit Komma getrennt"
+
+#: hrm_settings.php:126
+msgid "Stop time tracking after certain time"
+msgstr "Zeiterfassung nach bestimmter Zeit beenden"
+
+#: hrm_settings.php:129
+#: hrm_settings.php:138
+#: hrm_settings.php:147
+#: hrm_settings.php:155
+msgid "on"
+msgstr "an"
+
+#: hrm_settings.php:129
+#: hrm_settings.php:138
+#: hrm_settings.php:147
+#: hrm_settings.php:155
+msgid "off"
+msgstr "aus"
+
+#: hrm_settings.php:129
+msgid "after a fith of weekly hours."
+msgstr "nach einem fünftel der Zeit"
+
+#: hrm_settings.php:135
+msgid "Stop time tracking on log out"
+msgstr "Zeiterfassung beim Ausloggen beenden"
+
+#: hrm_settings.php:145
+msgid "is"
+msgstr "ist"
+
+#: hrm_settings.php:153
+msgid "Time to write posts is"
+msgstr "Zeit zum schreiben des Post ist"
+
+#: hrm_settings.php:163
+msgid "Support-Box"
+msgstr "Support-Box"
+
+#: hrm_settings.php:166
+msgid "Do you like this plugin or need help?"
+msgstr "Mögen Sie dieses Plugin oder brauchen Sie Hilfe?"
+
+#: hrm_settings.php:174
+msgid "Send Data"
+msgstr "Daten absenden"
+
+#: user-extras.php:22
+#: user-extras.php:46
+msgid "present"
+msgstr "Anwesend"
+
+#: user-extras.php:30
+#: user-extras.php:54
+msgid "absent"
+msgstr "Abwesend"
+
+#. Plugin Name of the plugin/theme
+msgid "HRM Work Tracking"
+msgstr "HRM Arbeitszeiterfassung"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/hrm-work-tracking/"
+msgstr "http://wordpress.org/plugins/hrm-work-tracking/"
+
+#. Description of the plugin/theme
+msgid "A plugin to track the time from users on your blog."
+msgstr "Ein Plug-in um die Arbeitszeit von mehreren WordPress Usern zu erfassen."
+
+#. Author of the plugin/theme
+msgid "wp-plugin-dev.com"
+msgstr "wp-plugin-dev.com"
+
+#. Author URI of the plugin/theme
+msgid "http://www.wp-plugin-dev.com"
+msgstr "http://www.wp-plugin-dev.com"
+
